@@ -64,11 +64,9 @@ Non-Technical: Team coordination, defining clear validation criteria, and thorou
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
-
+- 🔹 Frontend: React 
+- 🔹 Backend: FastAPI
+- 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- Krishna Prasad - [GitHub](https://github.com/krishnaprasad1234) | [LinkedIn](#)
+- Shreya Pandey - [GitHub](https://github.com/shreyapandey4) | [LinkedIn](www.linkedin.com/in/shreya-pandey-683a63219)
