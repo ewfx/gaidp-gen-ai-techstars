@@ -52,7 +52,7 @@ Non-Technical: Team coordination, defining clear validation criteria, and thorou
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/ewfx/gaidp-gen-ai-techstars
    ```
 2. Install dependencies  
    ```sh
@@ -60,7 +60,7 @@ Non-Technical: Team coordination, defining clear validation criteria, and thorou
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   npm run dev  # or python app.py
    ```
 
 ## 🏗️ Tech Stack
