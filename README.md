@@ -19,6 +19,8 @@ This API provides an automated validation system for financial datasets, ensurin
 🖼️ Screenshots:
 
 ![Screenshot 1](https://github.com/ewfx/gaidp-gen-ai-techstars/blob/main/artifacts/demo1.jpeg)
+![Screenshot 2](https://github.com/ewfx/gaidp-gen-ai-techstars/blob/main/artifacts/demo2.jpeg)
+![Screenshot 3](https://github.com/ewfx/gaidp-gen-ai-techstars/blob/main/artifacts/demo3.jpeg)
 
 ## 💡 Inspiration
 This project was inspired by the need for accurate and automated data validation in financial reporting, ensuring compliance and reducing manual errors through AI-driven rule generation.
