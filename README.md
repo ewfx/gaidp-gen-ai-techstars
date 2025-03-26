@@ -1,8 +1,7 @@
-# 🚀 Project Name
+# 🚀 Data Profiling
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
-- [Demo](#demo)
 - [Inspiration](#inspiration)
 - [What It Does](#what-it-does)
 - [How We Built It](#how-we-built-it)
