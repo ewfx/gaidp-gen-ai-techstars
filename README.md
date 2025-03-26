@@ -13,7 +13,7 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+This API provides an automated validation system for financial datasets, ensuring compliance with hedge accounting and regulatory requirements. Built using FastAPI and integrated with Google's Gemini AI, it generates validation rules based on column descriptions and applies these rules to uploaded datasets. The system allows users to upload financial data and receive validation reports highlighting potential issues.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
@@ -23,16 +23,31 @@ A brief overview of your project and its purpose. Mention which problem statemen
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+This project was inspired by the need for accurate and automated data validation in financial reporting, ensuring compliance and reducing manual errors through AI-driven rule generation.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+The project automates financial data validation by generating AI-driven rules based on column descriptions and applying them to datasets, ensuring accuracy and compliance with regulatory standards.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+Frontend:
+React.js: For building the user interface.
+Tailwind CSS: For styling and responsive design.
+Axios: For handling API requests.
+
+Backend:
+FastAPI: A high-performance Python web framework for handling API requests.
+Pandas: For data processing and validation.
+Google Gemini AI: Used for generating validation rules based on column descriptions.
+Uvicorn: ASGI server to run the FastAPI application.
+CORS Middleware: To handle cross-origin requests.
+
+Other Tools:
+JSON & FormData Handling: For structured data exchange between frontend and backend.
+Git/GitHub: For version control and collaboration.
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+Technical: Dynamic rule generation, handling large datasets efficiently, and seamless API integration.
+Non-Technical: Team coordination, defining clear validation criteria, and thorough testing.
 
 ## 🏃 How to Run
 1. Clone the repository  
