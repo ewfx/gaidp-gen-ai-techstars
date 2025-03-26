@@ -69,5 +69,5 @@ Non-Technical: Team coordination, defining clear validation criteria, and thorou
 - 
 ## 👥 Team
 - Krishna Prasad - [GitHub](https://github.com/krishnaprasad1234) | [LinkedIn](https://www.linkedin.com/in/e-krishna-prasad-02750721a)
-- Shreya Pandey - [GitHub](https://github.com/shreyapandey4) | [LinkedIn](www.linkedin.com/in/shreya-pandey-683a63219)
+- Shreya Pandey - [GitHub](https://github.com/shreyapandey4) | [LinkedIn](https://www.linkedin.com/in/shreya-pandey-683a63219)
 - Pavankumar Devalam  [GitHub](https://github.com/pavankumardevalam) | [LinkedIn](https://www.linkedin.com/in/devalam-pavankumar-31a5b9198?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
