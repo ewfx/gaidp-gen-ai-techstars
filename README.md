@@ -15,12 +15,10 @@
 ## 🎯 Introduction
 This API provides an automated validation system for financial datasets, ensuring compliance with hedge accounting and regulatory requirements. Built using FastAPI and integrated with Google's Gemini AI, it generates validation rules based on column descriptions and applies these rules to uploaded datasets. The system allows users to upload financial data and receive validation reports highlighting potential issues.
 
-## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
+![Screenshot 1](https://github.com/ewfx/gaidp-gen-ai-techstars/blob/main/artifacts/demo1.jpeg)
 
 ## 💡 Inspiration
 This project was inspired by the need for accurate and automated data validation in financial reporting, ensuring compliance and reducing manual errors through AI-driven rule generation.
